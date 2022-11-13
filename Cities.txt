@@ -1,0 +1,100 @@
+New York	NY	New York	40.6943	-73.9249	-5.00
+Los Angeles	CA	California	34.1141	-118.4068	-8.00
+Chicago	IL	Illinois	41.8375	-87.6866	-6.00
+Miami	FL	Florida	25.784	-80.2101	-5.00
+Dallas	TX	Texas	32.7935	-96.7667	-6.00
+Houston	TX	Texas	29.786	-95.3885	-6.00
+Philadelphia	PA	Pennsylvania	40.0077	-75.1339	-5.00
+Atlanta	GA	Georgia	33.7628	-84.422	-5.00
+Washington	DC	District of Columbia	38.9047	-77.0163	-5.00
+Boston	MA	Massachusetts	42.3188	-71.0852	-5.00
+Phoenix	AZ	Arizona	33.5722	-112.0892	-7.00
+Detroit	MI	Michigan	42.3834	-83.1024	-5.00
+San Francisco	CA	California	37.7558	-122.4449	-8.00
+Seattle	WA	Washington	47.6211	-122.3244	-8.00
+San Diego	CA	California	32.8313	-117.1222	-8.00
+Minneapolis	MN	Minnesota	44.9635	-93.2678	-6.00
+Tampa	FL	Florida	27.9945	-82.4447	-5.00
+Denver	CO	Colorado	39.762	-104.8758	-7.00
+Baltimore	MD	Maryland	39.3051	-76.6144	-5.00
+Las Vegas	NV	Nevada	36.2333	-115.2654	-8.00
+St. Louis	MO	Missouri	38.6359	-90.2451	-6.00
+Riverside	CA	California	33.9381	-117.3949	-8.00
+Portland	OR	Oregon	45.5371	-122.65	-8.00
+San Antonio	TX	Texas	29.4632	-98.5238	-6.00
+Sacramento	CA	California	38.5677	-121.4685	-8.00
+San Jose	CA	California	37.3012	-121.848	-8.00
+Orlando	FL	Florida	28.4773	-81.337	-5.00
+Cleveland	OH	Ohio	41.4764	-81.6805	-5.00
+Pittsburgh	PA	Pennsylvania	40.4397	-79.9763	-5.00
+Austin	TX	Texas	30.3005	-97.7522	-6.00
+Cincinnati	OH	Ohio	39.1413	-84.506	-5.00
+Indianapolis	IN	Indiana	39.7771	-86.1458	-5.00
+Kansas City	MO	Missouri	39.1238	-94.5541	-6.00
+Columbus	OH	Ohio	39.9862	-82.9855	-5.00
+Charlotte	NC	North Carolina	35.2083	-80.8303	-5.00
+Virginia Beach	VA	Virginia	36.7335	-76.0435	-5.00
+Milwaukee	WI	Wisconsin	43.0642	-87.9675	-6.00
+Providence	RI	Rhode Island	41.823	-71.4187	-5.00
+Jacksonville	FL	Florida	30.3322	-81.6749	-5.00
+Salt Lake City	UT	Utah	40.7776	-111.9311	-7.00
+Nashville	TN	Tennessee	36.1715	-86.7842	-6.00
+Raleigh	NC	North Carolina	35.8324	-78.6429	-5.00
+Memphis	TN	Tennessee	35.1087	-89.9663	-6.00
+Richmond	VA	Virginia	37.5295	-77.4756	-5.00
+Louisville	KY	Kentucky	38.1663	-85.6485	-5.00
+New Orleans	LA	Louisiana	30.0687	-89.9288	-6.00
+Bridgeport	CT	Connecticut	41.1918	-73.1954	-5.00
+Oklahoma City	OK	Oklahoma	35.4676	-97.5136	-6.00
+Buffalo	NY	New York	42.9018	-78.8487	-5.00
+Hartford	CT	Connecticut	41.7661	-72.6834	-5.00
+Tucson	AZ	Arizona	32.1541	-110.8787	-7.00
+Honolulu	HI	Hawaii	21.3294	-157.846	-10.00
+McAllen	TX	Texas	26.2252	-98.2467	-6.00
+El Paso	TX	Texas	31.8476	-106.43	-7.00
+Omaha	NE	Nebraska	41.2627	-96.0529	-6.00
+Albuquerque	NM	New Mexico	35.1054	-106.6465	-7.00
+Birmingham	AL	Alabama	33.5279	-86.7971	-6.00
+Sarasota	FL	Florida	27.3387	-82.5432	-5.00
+Dayton	OH	Ohio	39.7805	-84.2003	-5.00
+Rochester	NY	New York	43.168	-77.6162	-5.00
+Fresno	CA	California	36.783	-119.7939	-8.00
+Tulsa	OK	Oklahoma	36.1283	-95.9042	-6.00
+Allentown	PA	Pennsylvania	40.5961	-75.4756	-5.00
+Charleston	SC	South Carolina	32.8168	-79.9687	-5.00
+Colorado Springs	CO	Colorado	38.8674	-104.7605	-7.00
+Springfield	MA	Massachusetts	42.1155	-72.5395	-5.00
+Grand Rapids	MI	Michigan	42.9619	-85.6562	-5.00
+Ogden	UT	Utah	41.2279	-111.9682	-7.00
+Columbia	SC	South Carolina	34.0378	-80.9036	-5.00
+Baton Rouge	LA	Louisiana	30.442	-91.1311	-6.00
+Knoxville	TN	Tennessee	35.9692	-83.9496	-5.00
+Albany	NY	New York	42.6664	-73.7987	-5.00
+Akron	OH	Ohio	41.0798	-81.5219	-5.00
+New Haven	CT	Connecticut	41.3113	-72.9246	-5.00
+Provo	UT	Utah	40.2457	-111.6457	-7.00
+Bakersfield	CA	California	35.3529	-119.0359	-8.00
+Des Moines	IA	Iowa	41.5725	-93.6105	-6.00
+Toledo	OH	Ohio	41.6638	-83.5827	-5.00
+Palm Bay	FL	Florida	27.9631	-80.6593	-5.00
+Wichita	KS	Kansas	37.6895	-97.3443	-6.00
+Harrisburg	PA	Pennsylvania	40.2752	-76.8843	-5.00
+Little Rock	AR	Arkansas	34.7256	-92.3577	-6.00
+Madison	WI	Wisconsin	43.0822	-89.393	-6.00
+Greenville	SC	South Carolina	34.8354	-82.3646	-5.00
+Spokane	WA	Washington	47.6671	-117.433	-8.00
+Poughkeepsie	NY	New York	41.695	-73.9211	-5.00
+Winston-Salem	NC	North Carolina	36.1029	-80.261	-5.00
+Syracuse	NY	New York	43.0407	-76.1437	-5.00
+Boise	ID	Idaho	43.6005	-116.2308	-7.00
+Chattanooga	TN	Tennessee	35.066	-85.2481	-5.00
+Augusta	GA	Georgia	33.3645	-82.0708	-5.00
+Stockton	CA	California	37.9765	-121.3109	-8.00
+Durham	NC	North Carolina	35.9792	-78.9022	-5.00
+Oxnard	CA	California	34.1964	-119.1815	-8.00
+Greensboro	NC	North Carolina	36.0956	-79.8271	-5.00
+Lakeland	FL	Florida	28.0557	-81.9545	-5.00
+Worcester	MA	Massachusetts	42.2705	-71.8079	-5.00
+Fort Myers	FL	Florida	26.6194	-81.8302	-5.00
+Daytona Beach	FL	Florida	29.1995	-81.0982	-5.00
+Jackson	MS	Mississippi	32.3157	-90.2125	-6.00
